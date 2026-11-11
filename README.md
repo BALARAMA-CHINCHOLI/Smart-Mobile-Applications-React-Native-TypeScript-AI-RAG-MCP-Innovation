@@ -1,0 +1,2 @@
+# Smart-Mobile-Applications-React-Native-TypeScript-AI-RAG-MCP-Innovation
+I'm excited to explore mobile application development and continuously strengthen my technical skills through hands-on projects and emerging technologies. I'm particularly interested in combining AI capabilities with mobile applications and exploring innovative solutions that connect software with smart devices and everyday physical activities.
